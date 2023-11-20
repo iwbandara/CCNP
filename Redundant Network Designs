@@ -1,0 +1,23 @@
+Redundant Network Design:
+=========================
+
+=> The 5 Nines of availability
+
+=> Which is 99.999 of availability
+
+=> A downtime of approximately 5 minutes per year 
+
+
+=> NIC Teaming is a common technique of grouping physical network adapters to improve performance and redundancy.
+
+=> The major benefits that NIC teaming offers are better load balancing and increased fault tolerance.
+
+=> Port Aggregation (EtherChannel)
+
+=> Backup Types:
+
+	1. Full Backup => Backs up all data.
+
+	2. Differential Backup => Backs up changed data since last Full backup.
+
+	3. Incremental Backup => Backs up changed data since the last Full, Differential or Incremental backup.
